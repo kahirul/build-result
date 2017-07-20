@@ -21,29 +21,29 @@
 [0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.8  with arguments: [0m
 [0m[[0mdebug[0m] [0m	-nowarn[0m
 [0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d3cf06f7[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_6e2bf469[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/root/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/tmp/sbt_22d26b57/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/root/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/root/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/root/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/API.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Analyzer.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Command.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Compat.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/CompilerInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/ConsoleInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/DelegatingReporter.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Dependency.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/ExtractAPI.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/ExtractUsedNames.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/GlobalHelpers.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/LocateClassFile.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Log.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/Message.scala[0m
-[0m[[0mdebug[0m] [0m	/tmp/sbt_d85baf31/xsbt/ScaladocInterface.scala[0m
-[0m[[0minfo[0m] [0m  Compilation completed in 9.701 s[0m
+[0m[[0mdebug[0m] [0m	/root/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.15/xsbti/interface-0.13.15.jar:/tmp/sbt_72158cfc/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.15-sources.jar:/root/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/root/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/root/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f9a26d4b/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 9.186 s[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.11.8[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 2f215ffb, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 65bb63c2, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
