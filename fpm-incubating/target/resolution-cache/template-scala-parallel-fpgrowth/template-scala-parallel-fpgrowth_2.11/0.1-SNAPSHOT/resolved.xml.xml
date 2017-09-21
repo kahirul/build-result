@@ -4,7 +4,7 @@
 		module="template-scala-parallel-fpgrowth_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170914041827"
+		publication="20170921041756"
 	>
 		<description>
 		template-scala-parallel-fpgrowth
