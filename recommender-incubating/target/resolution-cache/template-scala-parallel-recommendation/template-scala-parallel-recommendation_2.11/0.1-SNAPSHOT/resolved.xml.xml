@@ -4,7 +4,7 @@
 		module="template-scala-parallel-recommendation_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171126074109"
+		publication="20171130030344"
 	>
 		<description>
 		template-scala-parallel-recommendation
