@@ -7,15 +7,15 @@
 		revision="0.1-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180628015639"/>
+		date="20180705015726"/>
 	<dependencies>
 		<module organisation="org.xerial.snappy" name="snappy-java">
 			<revision name="1.1.4" status="release" pubdate="20170522160501" resolver="public" artresolver="public" homepage="https://github.com/xerial/snappy-java" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
-				<metadata-artifact status="successful" details="" size="3286" time="721" location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/ivy-1.1.4.xml" searched="true" original-local-location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/ivy-1.1.4.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4.pom"/>
+				<metadata-artifact status="successful" details="" size="3286" time="771" location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/ivy-1.1.4.xml" searched="true" original-local-location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/ivy-1.1.4.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4.pom"/>
 				<caller organisation="template-scala-parallel-fpgrowth" name="template-scala-parallel-fpgrowth_2.11" conf="test, compile, runtime" rev="1.1.4" rev-constraint-default="1.1.4" rev-constraint-dynamic="1.1.4" callerrev="0.1-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="snappy-java" type="bundle" ext="jar" status="successful" details="" size="1505728" time="1942" location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/bundles/snappy-java-1.1.4.jar">
+					<artifact name="snappy-java" type="bundle" ext="jar" status="successful" details="" size="1505728" time="1601" location="/root/.ivy2/cache/org.xerial.snappy/snappy-java/bundles/snappy-java-1.1.4.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.4/snappy-java-1.1.4.jar"/>
 					</artifact>
 				</artifacts>
